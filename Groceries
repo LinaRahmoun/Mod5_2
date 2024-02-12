@@ -1,0 +1,13 @@
+# Mod5_2
+
+Stage                | Description                                   | Time (mins)
+------------------------------------------------------------------------------
+1. Planning          | Make a shopping list                         | 15
+2. Travel            | Drive to the grocery store                   | 20
+3. Shopping          | Select items from the store                  | 45
+4. Checkout          | Pay for groceries and exit the store         | 10
+5. Travel            | Drive back home                               | 20
+6. Unpacking         | Unload groceries and put them away           | 15
+------------------------------------------------------------------------------
+Total Flow Time:                                                     125 mins
+Estimated Cycle Time (from leaving home to returning):               155 mins
